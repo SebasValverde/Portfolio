@@ -13,6 +13,7 @@ import {
   SiBootstrap,
   SiDotnet,
   SiMysql,
+  SiNodedotjs,
 } from "react-icons/si";
 import Tilt from "react-parallax-tilt";
 
@@ -29,6 +30,10 @@ const skills: Skill[] = [
   {
     name: "Next.js",
     icon: <SiNextdotjs />,
+  },
+  {
+  name: "Node.js",
+  icon: <SiNodedotjs />,
   },
   {
     name: "JavaScript",
@@ -77,7 +82,7 @@ const skills: Skill[] = [
 ];
 
 const top = skills.slice(0, 7);
-const bottom = skills.slice(7);
+const bottom = skills.slice(8);
 
 const Card = ({ skill, delay }: { skill: Skill; delay: number }) => (
   <Tilt scale={1.5} transitionSpeed={400}>

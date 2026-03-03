@@ -68,22 +68,22 @@ const Resume = () => {
           <div className="mt-10" data-aos="zoom-out" data-aos-anchor-placement="top-center" data-aos-delay="300">
             <ResumeCard
               Icon={FaGraduationCap}
-              role="Universidad Internacional de las Americas"
+              role="Bachelor&apos;s Degree in Software Engineering"
               date="2022- Ongoing"
               description={
                 <>
-                  <p>Bachelor&apos;s Degree in Software Engineering</p>
+                  <p>Universidad Internacional de las Americas</p>
                 </>
               }
             />
 
             <ResumeCard
               Icon={FaCertificate}
-              role="Instituto Nacional de Aprendizaje"
+              role="Interaction with JavaScript"
               date="December 2023"
               description={
                 <>
-                  <p>Interaction with JavaScript</p>
+                  <p>Instituto Nacional de Aprendizaje</p>
                 </>
               }
             />

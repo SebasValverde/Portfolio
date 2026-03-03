@@ -125,7 +125,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/TU_USER"
+              href="https://www.linkedin.com/in/sebastian-valverdearias/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
