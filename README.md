@@ -1,7 +1,6 @@
 # 💼 Developer Portfolio — Sebastian Valverde
 
-<img width="1914" height="949" alt="image" src="https://github.com/user-attachments/assets/3980a77c-1b24-44ab-bc1d-e28d291e7f27" />
-
+<img width="1903" height="949" alt="image" src="https://github.com/user-attachments/assets/11e5c1ca-860b-41db-af99-9cb6e184bd4c" />
 
 This repository contains the source code for my personal developer portfolio website.  
 The goal of this project is to showcase my technical skills, projects, and professional background as a **Software Engineering graduate focused on Front-End and Full-Stack development**.
