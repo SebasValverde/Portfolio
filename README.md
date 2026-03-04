@@ -1,36 +1,146 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💼 Developer Portfolio — Sebastian Valverde
 
-## Getting Started
+<img width="1903" height="949" alt="image" src="https://github.com/user-attachments/assets/11e5c1ca-860b-41db-af99-9cb6e184bd4c" />
 
-First, run the development server:
+This repository contains the source code for my personal developer portfolio website.  
+The goal of this project is to showcase my technical skills, projects, and professional background as a **Software Engineering graduate focused on Front-End and Full-Stack development**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+The portfolio highlights my experience with modern web technologies such as **React, Next.js, TypeScript, and .NET**, and includes a contact form for professional opportunities.
+
+---
+
+# 🌐 Live Demo
+
+You can view the deployed portfolio here:
+
+🔗 **Live Website:**  
+[https://your-portfolio-link.vercel.app](#)
+
+---
+
+# 📌 Features
+
+The portfolio includes the following sections:
+
+• **Hero Section** — Introduction and personal branding  
+• **Skills Section** — Technologies and tools I work with  
+• **Resume Section** — Professional background and education  
+• **Projects Section** — Selected projects with descriptions  
+• **Contact Section** — Contact form and social links  
+
+Additional features:
+
+• Smooth scrolling navigation  
+• Animated UI using AOS (Animate On Scroll)  
+• Interactive skill cards with tilt effects  
+• Responsive design for all devices  
+• Downloadable CV  
+• Contact form integration using Formspree  
+
+---
+
+# 🛠️ Technologies Used
+
+### Front-End
+
+• **Next.js** — React framework for modern web applications  
+• **React** — UI library  
+• **TypeScript** — Static typing for safer development  
+• **Tailwind CSS** — Utility-first styling framework  
+
+### UI & Animations
+
+• **AOS (Animate On Scroll)** — Scroll animations  
+• **React Icons** — Technology icons  
+• **React Tilt** — Interactive tilt card effects  
+
+### Other Tools
+
+• **Formspree** — Contact form handling  
+• **Git & GitHub** — Version control  
+• **Vercel** — Deployment platform  
+
+---
+
+# 📂 Project Structure
+
+```
+portfolio/
+│
+├── app
+│ ├── layout.tsx
+│ ├── page.tsx
+│ └── globals.css
+│
+├── components
+│ ├── Hero
+│ ├── Skills
+│ ├── Resume
+│ ├── Projects
+│ ├── Contact
+│ ├── Navbar
+│ └── Footer
+│
+├── public
+│ ├── Images
+│ └── cv
+│
+├── constants
+│ └── constants.ts
+│
+└── package.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# ⚙️ Installation and Setup
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+To run this project locally, follow these steps:
 
-## Learn More
+### Clone the repository
+```
+git clone https://github.com/SebasValverde/Portfolio.git
+```
+### Navigate to the project folder
+```
+cd Portfolio
+```
+### Install dependencies
+```
+npm install
+```
+### 4️⃣ Run the development server
+```
+npm run dev
+```
+The application will be available at:
+```
+http://localhost:3000
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# 📬 Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+If you are interested in working together, collaborating, or discussing opportunities, feel free to reach out.
 
-## Deploy on Vercel
+📧 Email: **sebassvalaa28@gmail.com**  
+📍 Location: **San José, Costa Rica**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+# 👨‍💻 Author
+
+**Sebastian Valverde Arias**
+
+Software Engineering student
+Front-End / Full-Stack Developer  
+
+
+
