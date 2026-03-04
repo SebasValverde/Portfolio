@@ -82,24 +82,26 @@ const Hero = () => {
             <FaLinkedinIn className="h-5 w-5" />
           </a>
 
-          <button
+          <a
+            href="#works"
             className="
-                relative overflow-hidden
-                px-10 py-4 rounded-full text-lg font-medium cursor-pointer
-                bg-blue-800 hover:bg-blue-800
-                transition-all duration-300
-                hover:shadow-[0_14px_30px_rgba(0,0,0,0.35),0_0_22px_rgba(103,232,249,0.12)]
-                active:scale-95
-                focus-visible:outline-none
-                focus-visible:ring-2 focus-visible:ring-cyan-200/25
-                before:absolute before:inset-0
-                before:bg-linear-to-r before:from-transparent before:via-white/10 before:to-transparent
-                before:translate-x-[-120%] hover:before:translate-x-[120%]
-                before:transition-transform before:duration-700"
+              relative overflow-hidden inline-flex items-center
+              px-10 py-4 rounded-full text-lg font-medium cursor-pointer
+              bg-blue-800 hover:bg-blue-800
+              transition-all duration-300
+              hover:shadow-[0_14px_30px_rgba(0,0,0,0.35),0_0_22px_rgba(103,232,249,0.12)]
+              active:scale-95
+              focus-visible:outline-none
+              focus-visible:ring-2 focus-visible:ring-cyan-200/25
+              before:absolute before:inset-0
+              before:bg-linear-to-r before:from-transparent before:via-white/10 before:to-transparent
+              before:translate-x-[-120%] hover:before:translate-x-[120%]
+              before:transition-transform before:duration-700
+            "
           >
             <span>See my work</span>
             <BsArrowRight className="w-5 h-5 ml-2 inline-block" />
-          </button>
+          </a>
         </div>
       </div>
     </div>
